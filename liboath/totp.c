@@ -21,6 +21,8 @@
 
 #include <config.h>
 
+#include <limits.h>
+
 #include "oath.h"
 #include "hotp.h"
 #include "aux.h"		/* _oath_strcmp_callback */

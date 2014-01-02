@@ -25,6 +25,7 @@
 #include "hotp.h"
 #include "aux.h"		/* _oath_strcmp_callback */
 
+#include <limits.h>
 #include <stdio.h>		/* For snprintf. */
 
 #include "gc.h"
